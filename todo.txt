@@ -1,0 +1,38 @@
+[] build a form to retrieve the details of a job applicant.
+[] The user must provide name, email and at least one skill (list of skills attached).
+
+You should pay attention to all elements of the form, and see what can be part of a component, what parts can be optional and build it the best way you see fit. 
+
+We also would like to be able to see a list of all the applicants sent using the form (make sure you use Vuex for that)
+
+We're suggesting a few options on how the dropdown you are going to build could look like, but if you get stuck because you cannot get exactly to the same result, please go ahead and make small adjustments, try to get as close as possible.
+
+** What we are looking for
+
+We will be looking at everything, but we especially wanted to see how well you work with the core concepts used in Vue.
+
+** Must have
+
+  [x] Components;
+  Slots;
+  Vuex;
+  [x] Validations where appropriate;
+  Automated tests
+
+** Restrictions
+
+[x] No third party libraries for components;
+
+** Optional
+
+  [x] Separate view for form and list using vue-router.
+  [] Sass for styling customization;
+  [x] Bootstrap for styling;
+  [x] You can use vue-cli for bootstrapping your app;
+  [] It would be great if you could follow the style-guide proposed;
+  [] In your final email with your code (link or .zip), include some description about how you developed your code and some milestones. 
+  (eg. Hour 2: I completed the list and form components with a single selection dropdown, etc);
+
+** Share your work with us
+
+Please upload your code to your Github or Bitbucket account and share the link with us for the repository or zip it (without the dependencies) and attach to your email.
