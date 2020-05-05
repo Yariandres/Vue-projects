@@ -36,3 +36,14 @@ We will be looking at everything, but we especially wanted to see how well you w
 ** Share your work with us
 
 Please upload your code to your Github or Bitbucket account and share the link with us for the repository or zip it (without the dependencies) and attach to your email.
+
+{
+        
+        email: "yari@gmail.com",
+        skills: ["Javascript", "PHP", "CSS", "HTML"]
+      },
+      {
+        name: "Paul Smith",
+        email: "paul@gmail.com",
+        skills: ["SQL", "C#", "CSS", "HTML", "Python"]
+      }

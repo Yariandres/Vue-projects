@@ -9,13 +9,7 @@ export default new Vuex.Store({
     users: [
       {
         name: "Yari Herrera",
-        email: "yari@gmail.com",
-        skills: ["Javascript", "PHP", "CSS", "HTML"]
-      },
-      {
-        name: "Paul Smith",
-        email: "paul@gmail.com",
-        skills: ["SQL", "C#", "CSS", "HTML", "Python"]
+        email: "yari@example.com"
       }
     ]
   },
@@ -30,6 +24,7 @@ export default new Vuex.Store({
       state.users.push(user)
     }
   },
+
   actions: {
   },
   modules: {
